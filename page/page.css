@@ -1,6 +1,28 @@
+/*__________________________________________________________*/
+
 @import url(../vendor/normalize.css);
+/*__________________________________________________________*/
+@import url(../blocks/style/style.css);
 /*__________________________________________________________*/
 @import url(../vendor/fonts.css);
 /*__________________________________________________________*/
 @import url(../blocks/body/body.css);
+/*__________________________________________________________*/
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__arrow/slider__arrow.css);
+@import url(../blocks/slider/__info/slider__info.css);
+@import url(../blocks/slider/__nav/slider__nav.css);
+@import url(../blocks/slider/__dots/slider__dots.css);
+@import url(../blocks/slider/__images/slider__images.css);
+@import url(../blocks/slider/__titles/slider__titles.css);
+/*__________________________________________________________*/
+@import url(../blocks/title/title.css);
+@import url(../blocks/title/__text/title__text.css);
+@import url(../blocks/title/__line/title__line.css);
+@import url(../blocks/title/__info/title__info.css);
+/*__________________________________________________________*/
+@import url(../blocks/projects/__info/projects__info.css);
+/*__________________________________________________________*/
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__active/cards__active.css);
 /*__________________________________________________________*/

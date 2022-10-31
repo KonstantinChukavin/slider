@@ -1,0 +1,13 @@
+.slider__titles {
+    margin-top: 107px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-bottom: 45.36px;
+    height: 24.08px;
+}
+
+.slider__titles:hover {
+    cursor: pointer;
+}

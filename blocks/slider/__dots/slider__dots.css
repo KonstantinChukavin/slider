@@ -1,0 +1,6 @@
+.slider__dots {
+    width: 63.78px;
+    height: 9.57px;
+    display: flex;
+    flex-wrap: nowrap;
+}

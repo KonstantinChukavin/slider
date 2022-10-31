@@ -1,11 +1,16 @@
 .body {
-    min-width: 320px;
-    max-width: 1280px;
-    margin: 0 auto;
-    background: rgba(19, 19, 19, 1);
-    font-family: 'inter', 'Arial', sans-serif;
+    font-family: "Nunito Sans", sans-serif;
     font-style: normal;
     font-weight: normal;
+    min-width: 1440px;
+    background-color: #131313;
+    padding: 0 134.55px 0 134.45px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 0 auto;
     color: #FFF;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;

@@ -1,0 +1,17 @@
+.slider__images {
+    width: 679px;
+    height: 482.38px;
+    position: relative;
+}
+
+.slider__images .image {
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    transition: opacity 800ms ease;
+}

@@ -1,0 +1,82 @@
+.rostov_patriotic,
+.sochi,
+.rostov_admiral {
+    display: none;
+}
+
+h1,
+h2 {
+    color: rgba(227, 184, 115, 1);
+    font-family: 'Yeseva One';
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    font-family: 'Nunito Sans';
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+}
+
+.cards__text {
+    font-size: 13px;
+    line-height: 21.28px;
+    position: absolute;
+    opacity: 0;
+}
+
+.dot_item {
+    margin: 0 17.54px 0 0;
+    background: url(../../vendor/image/dot.svg);
+    width: 9.57px;
+    height: 9.57px;
+}
+
+.dot__active {
+    background: url(../../vendor/image/dot.svg);
+    width: 9.57px;
+    height: 9.57px;
+    margin: 0 17.54px 0 0;
+}
+
+.dot_item:hover {
+    background: url(../../vendor/image/dot_active.svg);
+    cursor: pointer;
+}
+
+.dot_item:last-child {
+    margin: 0;
+}
+
+.slider__title {
+    font-size: 14px;
+    line-height: 19.4px;
+    color: rgba(255, 255, 255, 0.3);
+    margin-right: 60.5px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-family: 'Yeseva One';
+}
+
+.slider__title:hover {
+    color: rgba(227, 184, 115, 1);
+    padding-bottom: 6.68px;
+    border-bottom: 1px solid rgba(227, 184, 115, 1);
+}
+
+.slider__title:last-child {
+    margin: 0;
+}
+
+.title__active {
+    color: rgba(227, 184, 115, 1);
+    padding-bottom: 6.68px;
+    border-bottom: 1px solid rgba(227, 184, 115, 1);
+}
+
+.slider__images .image.active {
+    opacity: 1;
+}

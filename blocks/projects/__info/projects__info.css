@@ -1,0 +1,8 @@
+.projects__info {
+    display: grid;
+    grid-template-columns: 156px 213px;
+    grid-template-rows: 73px 73px;
+    gap: 34px;
+    margin-bottom: 79.64px;
+    position: relative;
+}
