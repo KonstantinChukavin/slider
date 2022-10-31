@@ -21,25 +21,11 @@ p {
     margin: 0;
 }
 
-.cards__text {
-    font-size: 13px;
-    line-height: 21.28px;
-    position: absolute;
-    opacity: 0;
-}
-
 .dot_item {
     margin: 0 17.54px 0 0;
     background: url(../../vendor/image/dot.svg);
     width: 9.57px;
     height: 9.57px;
-}
-
-.dot__active {
-    background: url(../../vendor/image/dot.svg);
-    width: 9.57px;
-    height: 9.57px;
-    margin: 0 17.54px 0 0;
 }
 
 .dot_item:hover {
