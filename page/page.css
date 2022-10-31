@@ -2,13 +2,12 @@
 
 @import url(../vendor/normalize.css);
 /*__________________________________________________________*/
+@import url(../blocks/style/style.css);
+/*__________________________________________________________*/
 @import url(../vendor/fonts.css);
 /*__________________________________________________________*/
 @import url(../blocks/body/body.css);
 /*__________________________________________________________*/
-@import url(../blocks/style/style.css);
-/*__________________________________________________________*/
-
 @import url(../blocks/slider/slider.css);
 @import url(../blocks/slider/__arrow/slider__arrow.css);
 @import url(../blocks/slider/__info/slider__info.css);
